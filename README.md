@@ -1,28 +1,28 @@
 # youtube_full_stack clone app
-###Technologies
-*React
-*Node
-*Express
-*MongoDB
-*Redux
-*Firebase
+### Technologies
+* React
+* Node
+* Express
+* MongoDB
+* Redux
+* Firebase
 
-###Features
-User can sign in and signup also sign up with google
-Users can like dislike video
-User can upload videos
-User can subscribe to channels and can comment ot videos
+### Features
+* User can sign in and signup also sign up with google
+* Users can like dislike video
+* User can upload videos
+* User can subscribe to channels and can comment ot videos
 
-###Setup
- ####Client
- *cd my-app
- *npm install
- *npm start
- ####Server
- *npm install
- *npm start
+### Setup
+ #### Client
+ * cd my-app
+ * npm install
+ * npm start
+ #### Server
+ * npm install
+ * npm start
  
- ###Login to the app using:
+ ### Login to the app using:
  Username : test1
  Password :12345
  
